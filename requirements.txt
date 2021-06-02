@@ -44,6 +44,6 @@ tox==3.15.0
 translate==3.5.0
 tweepy==3.8.0
 twilio==6.40.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.20
 wrapt==1.11.2
